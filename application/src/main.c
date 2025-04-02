@@ -34,8 +34,8 @@ int main()
 {
     srand(time(NULL));
 
-    int c = 6;
-#if 0
+    int c = 6;          // Nombre de caracteres ded n-grams
+#if 0                   //passer à 1 pour générer le graph et le fichier de ngrams
     ngramGenerator("../data/word_generator/dictionnary.txt", c);
 #endif
 
