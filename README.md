@@ -35,6 +35,7 @@ cmake --build .
 ../_bin/application
 ```
 
-## License
+## License & Mention
 
+Special mention to M. Bodin and M. Bannier who created the basecode of this project. This project was realized during their class.
 All code produced for this project is licensed under the [MIT license](/LICENSE.md).
